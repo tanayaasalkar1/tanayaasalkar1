@@ -43,7 +43,6 @@
 ### ☁️ Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
 
@@ -68,15 +67,6 @@
 * Next.js + Supabase
 * Google Auth & optimized performance
 * 🔗 [https://github.com/tanayaasalkar1/smart-bookmark-app](https://github.com/tanayaasalkar1/smart-bookmark-app)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanayaasalkar1&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayaasalkar1&layout=compact&theme=radical" height="150">
-</p>
 
 ---
 
