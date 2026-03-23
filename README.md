@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.E. Electronics & Telecommunication Engineering (CGPA: 8.35)
+* 🎓 B.E. Electronics & Telecommunication Engineering - 2025 (CGPA: 8.35)
 * 💻 Full Stack Developer focused on **MERN & Next.js**
 * 🤖 Building **AI-powered applications using LLM APIs**
 * ⚡ Passionate about **scalable & production-ready systems**
